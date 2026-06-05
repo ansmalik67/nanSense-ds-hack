@@ -14,7 +14,7 @@
 | Venkatesh | Team Member |
 | Jayanth | Team Member |
 | Samyuktha | Team Member |
-| *(add members)* | *(add roles)* |
+
 
 ---
 
@@ -48,11 +48,11 @@ This repository contains all code, notebooks, and results submitted for the **Da
 
 | Rank | Model | Score/Metric |
 |------|-------|-------------|
-| 1 | *(TBD)* | *(TBD)* |
-| 2 | *(TBD)* | *(TBD)* |
-| 3 | *(TBD)* | *(TBD)* |
-| 4 | *(TBD)* | *(TBD)* |
-| 5 | *(TBD)* | *(TBD)* |
+| 1 | XGBoost | 82 |
+| 2 | LR |81 |
+| 3 |KNN |80 |
+| 4 | MLP | 67 |
+| 5 | RF | 66 |
 
 ---
 
