@@ -1,4 +1,4 @@
-# NaNSense — Data Science Hackathon 2026
+# Dataset -B— Data Science Hackathon 2026
 
 > University of Hertfordshire | CDIO Rooms SP0015 & SP0019 | 5th June 2026, 10:00–16:00
 
