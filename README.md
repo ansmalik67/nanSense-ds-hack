@@ -9,7 +9,7 @@
 | Name | Role |
 |------|------|
 | Ans | Team Member |
-| Talluri | Team Member |
+| Issaku | Team Member |
 | Ramya | Team Member |
 | Venkatesh | Team Member |
 | Jayanth | Team Member |
