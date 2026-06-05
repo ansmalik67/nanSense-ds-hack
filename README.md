@@ -9,6 +9,11 @@
 | Name | Role |
 |------|------|
 | Ans | Team Member |
+| Talluri | Team Member |
+| Ramya | Team Member |
+| Venkatesh | Team Member |
+| Jayanth | Team Member |
+| Samyuktha | Team Member |
 | *(add members)* | *(add roles)* |
 
 ---
