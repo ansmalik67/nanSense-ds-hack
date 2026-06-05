@@ -24,31 +24,6 @@ This repository contains all code, notebooks, and results submitted for the **Da
 
 ---
 
-## Repository Structure
-
-```
-NaNSense/
-│
-├── notebooks/
-│   └── hackathon_main.ipynb       # Main Colab notebook
-│
-├── results/
-│   └── top5_results.csv           # Top 5 submitted results
-│
-├── figures/
-│   └── *.png                      # Embellished plots and visualisations
-│
-├── xai/
-│   └── explainability.ipynb       # XAI analysis (post-hackathon)
-│
-├── presentation/
-│   └── slides.pptx                # Final presentation
-│
-└── README.md
-```
-
----
-
 ## Workflow
 
 ### Before Hackathon
@@ -59,7 +34,7 @@ NaNSense/
 ### During Hackathon *(5th June)*
 - [ ] Data exploration and preprocessing
 - [ ] Model building and evaluation
-- [ ] Top 5 results submission to [p.carrilho@herts.ac.uk](mailto:p.carrilho@herts.ac.uk)
+- [ ] Top 5 results submission 
 - [ ] GitHub and Colab links submitted
 
 ### After Hackathon
@@ -84,7 +59,6 @@ NaNSense/
 ## Links
 
 - **Google Colab:** *(add link)*
-- **Submission email:** [p.carrilho@herts.ac.uk](mailto:p.carrilho@herts.ac.uk)
 
 ---
 
